@@ -1,0 +1,7 @@
+{
+  "client_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+  "client_secret": "XXXXXXXXXXXXXXXXXXXXXXXX",
+  "refresh_token": "XXXXXXXXXXXXXXXXXXXXXXXX",
+  "calendar_id": "________________________",
+  "reminder_days": 7
+}
